@@ -10,8 +10,8 @@ td, th {
   color:dimgrey;
 }
 img{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   }
 
 table {
@@ -20,5 +20,5 @@ table {
 .facts{
   font-size: medium;
   font-weight: bold;
-  color: azure;
+  
   }
