@@ -1,6 +1,6 @@
 
 td, th {
-	border: 1px solid black;
+  border: 1px solid black;
   background-color: darkolivegreen;
   text-align: center;
   
@@ -11,7 +11,7 @@ td, th {
 }
 img{
   width: 250px;
-	height: 250px;
+  height: 250px;
   }
 
 table {
