@@ -12,3 +12,7 @@ td, th {
 table {
     text-align: center;
   }
+h1{
+    font-style: italic;
+    color: saddlebrown;
+}
