@@ -4,14 +4,15 @@ td, th {
   background-color: darkolivegreen;
   text-align: center;
   }
+ h1{
+  font-style: italic;
+  color: saddlebrown;
+}
 img{
   width: 500px;
 	height:500px;
   }
-h1{
-  font-style: italic;
-  color: saddlebrown;
-}
+
 table {
   text-align: center;
   }
