@@ -1,1 +1,5 @@
-
+td, th {
+	border: 2px solid;
+  background-color: #44026C;
+  text-align: center;
+  }
