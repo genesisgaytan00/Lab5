@@ -5,6 +5,9 @@ td, th {
   text-align: center;
   font-weight: bold;
   }
+body{
+  font-weight: bold;
+  }
  h1{
   font-style: italic;
   color:dimgrey;
